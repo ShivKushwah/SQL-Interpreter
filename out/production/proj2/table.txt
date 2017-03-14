@@ -1,0 +1,5 @@
+Name string,Age int,IDs int
+'bob',19,1
+'joe',27,2
+'john',36,3
+
